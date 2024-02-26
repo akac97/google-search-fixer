@@ -31,6 +31,8 @@
     "js": ["common.js", "content.js"],
     "run_at": "document_start",
     "include_globs": [
+      "*https://*.youtube.*",
+      "*http://*.youtube.*",
       "*https://www.google.*",
       "*https://maps.google.*",
       "*http://www.google.*",
