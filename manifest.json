@@ -5,7 +5,7 @@
   "description": "__MSG_addonDescription__",
   "author": "__MSG_addonAuthorsList__",
   "version": "1.6",
-  "homepage_url": "http://github.com/wisniewskit/google-search-fixer",
+  "homepage_url": "https://github.com/akac97/google-search-fixer",
   "applications": {
     "gecko": {
       "strict_min_version": "56.0"
